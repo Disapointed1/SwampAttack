@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _label: 
-  _price: 0
+  _price: 1
   _icon: {fileID: 21300000, guid: 814f39e3a1e204c4586f75b514a06601, type: 3}
-  _isBuyed: 1
+  _isBuyed: 0
   _fireBall: {fileID: 784614498621386925, guid: 741503863a2e9f5429a24a08b2d03968, type: 3}
